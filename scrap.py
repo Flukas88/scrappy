@@ -7,7 +7,6 @@ This module gets CESAs from LWN.net and official CentOS ML and generates yaml fi
 Todo:
     *
 """
-#import operator
 import re
 from concurrent.futures import ThreadPoolExecutor as PoolExecutor
 import requests
@@ -16,6 +15,13 @@ from bs4 import BeautifulSoup
 
 
 def get_it(url):
+    """Get content of url
+
+    Args:
+
+        url (str): The url to reach
+
+    """
     response = requests.get(url)
     return response.text
 
