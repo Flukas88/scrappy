@@ -5,7 +5,8 @@ This module gets CESAs from LWN.net and official CentOS ML and generates yaml fi
 
 
 Todo:
-    *
+    - make it more parallel
+    - unit test
 """
 import re
 from concurrent.futures import ThreadPoolExecutor as PoolExecutor
