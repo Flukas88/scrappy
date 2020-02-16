@@ -1,0 +1,14 @@
+---
+cesa: CESA-2019:1652 
+os: '6'
+package: libssh2
+rpms:
+  - libssh2-1.4.2-3.el6_10.1.i686.rpm
+  - libssh2-1.4.2-3.el6_10.1.i686.rpm
+  - libssh2-1.4.2-3.el6_10.1.src.rpm
+  - libssh2-1.4.2-3.el6_10.1.x86_64.rpm
+  - libssh2-devel-1.4.2-3.el6_10.1.i686.rpm
+  - libssh2-devel-1.4.2-3.el6_10.1.i686.rpm
+  - libssh2-devel-1.4.2-3.el6_10.1.x86_64.rpm
+  - libssh2-docs-1.4.2-3.el6_10.1.i686.rpm
+  - libssh2-docs-1.4.2-3.el6_10.1.x86_64.rpm 

@@ -1,0 +1,60 @@
+---
+cesa: CESA-2019:3287 
+os: '6'
+package: php
+rpms:
+  - php-5.3.3-50.el6_10.i686.rpm
+  - php-5.3.3-50.el6_10.src.rpm
+  - php-5.3.3-50.el6_10.x86_64.rpm
+  - php-bcmath-5.3.3-50.el6_10.i686.rpm
+  - php-bcmath-5.3.3-50.el6_10.x86_64.rpm
+  - php-cli-5.3.3-50.el6_10.i686.rpm
+  - php-cli-5.3.3-50.el6_10.x86_64.rpm
+  - php-common-5.3.3-50.el6_10.i686.rpm
+  - php-common-5.3.3-50.el6_10.x86_64.rpm
+  - php-dba-5.3.3-50.el6_10.i686.rpm
+  - php-dba-5.3.3-50.el6_10.x86_64.rpm
+  - php-devel-5.3.3-50.el6_10.i686.rpm
+  - php-devel-5.3.3-50.el6_10.x86_64.rpm
+  - php-embedded-5.3.3-50.el6_10.i686.rpm
+  - php-embedded-5.3.3-50.el6_10.x86_64.rpm
+  - php-enchant-5.3.3-50.el6_10.i686.rpm
+  - php-enchant-5.3.3-50.el6_10.x86_64.rpm
+  - php-fpm-5.3.3-50.el6_10.i686.rpm
+  - php-fpm-5.3.3-50.el6_10.x86_64.rpm
+  - php-gd-5.3.3-50.el6_10.i686.rpm
+  - php-gd-5.3.3-50.el6_10.x86_64.rpm
+  - php-imap-5.3.3-50.el6_10.i686.rpm
+  - php-imap-5.3.3-50.el6_10.x86_64.rpm
+  - php-intl-5.3.3-50.el6_10.i686.rpm
+  - php-intl-5.3.3-50.el6_10.x86_64.rpm
+  - php-ldap-5.3.3-50.el6_10.i686.rpm
+  - php-ldap-5.3.3-50.el6_10.x86_64.rpm
+  - php-mbstring-5.3.3-50.el6_10.i686.rpm
+  - php-mbstring-5.3.3-50.el6_10.x86_64.rpm
+  - php-mysql-5.3.3-50.el6_10.i686.rpm
+  - php-mysql-5.3.3-50.el6_10.x86_64.rpm
+  - php-odbc-5.3.3-50.el6_10.i686.rpm
+  - php-odbc-5.3.3-50.el6_10.x86_64.rpm
+  - php-pdo-5.3.3-50.el6_10.i686.rpm
+  - php-pdo-5.3.3-50.el6_10.x86_64.rpm
+  - php-pgsql-5.3.3-50.el6_10.i686.rpm
+  - php-pgsql-5.3.3-50.el6_10.x86_64.rpm
+  - php-process-5.3.3-50.el6_10.i686.rpm
+  - php-process-5.3.3-50.el6_10.x86_64.rpm
+  - php-pspell-5.3.3-50.el6_10.i686.rpm
+  - php-pspell-5.3.3-50.el6_10.x86_64.rpm
+  - php-recode-5.3.3-50.el6_10.i686.rpm
+  - php-recode-5.3.3-50.el6_10.x86_64.rpm
+  - php-snmp-5.3.3-50.el6_10.i686.rpm
+  - php-snmp-5.3.3-50.el6_10.x86_64.rpm
+  - php-soap-5.3.3-50.el6_10.i686.rpm
+  - php-soap-5.3.3-50.el6_10.x86_64.rpm
+  - php-tidy-5.3.3-50.el6_10.i686.rpm
+  - php-tidy-5.3.3-50.el6_10.x86_64.rpm
+  - php-xml-5.3.3-50.el6_10.i686.rpm
+  - php-xml-5.3.3-50.el6_10.x86_64.rpm
+  - php-xmlrpc-5.3.3-50.el6_10.i686.rpm
+  - php-xmlrpc-5.3.3-50.el6_10.x86_64.rpm
+  - php-zts-5.3.3-50.el6_10.i686.rpm
+  - php-zts-5.3.3-50.el6_10.x86_64.rpm 

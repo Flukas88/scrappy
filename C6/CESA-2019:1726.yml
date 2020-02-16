@@ -1,0 +1,18 @@
+---
+cesa: CESA-2019:1726 
+os: '6'
+package: dbus
+rpms:
+  - dbus-1.2.24-11.el6_10.i686.rpm
+  - dbus-1.2.24-11.el6_10.src.rpm
+  - dbus-1.2.24-11.el6_10.x86_64.rpm
+  - dbus-devel-1.2.24-11.el6_10.i686.rpm
+  - dbus-devel-1.2.24-11.el6_10.i686.rpm
+  - dbus-devel-1.2.24-11.el6_10.x86_64.rpm
+  - dbus-doc-1.2.24-11.el6_10.noarch.rpm
+  - dbus-doc-1.2.24-11.el6_10.noarch.rpm
+  - dbus-libs-1.2.24-11.el6_10.i686.rpm
+  - dbus-libs-1.2.24-11.el6_10.i686.rpm
+  - dbus-libs-1.2.24-11.el6_10.x86_64.rpm
+  - dbus-x11-1.2.24-11.el6_10.i686.rpm
+  - dbus-x11-1.2.24-11.el6_10.x86_64.rpm 

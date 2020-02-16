@@ -1,0 +1,11 @@
+---
+cesa: CESA-2019:4240 
+os: '7'
+package: openslp
+rpms:
+  - openslp-2.0.0-8.el7_7.i686.rpm
+  - openslp-2.0.0-8.el7_7.src.rpm
+  - openslp-2.0.0-8.el7_7.x86_64.rpm
+  - openslp-devel-2.0.0-8.el7_7.i686.rpm
+  - openslp-devel-2.0.0-8.el7_7.x86_64.rpm
+  - openslp-server-2.0.0-8.el7_7.x86_64.rpm 

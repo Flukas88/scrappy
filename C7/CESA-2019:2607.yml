@@ -1,0 +1,10 @@
+---
+cesa: CESA-2019:2607 
+os: '7'
+package: qemu-kvm
+rpms:
+  - qemu-img-1.5.3-167.el7_7.1.x86_64.rpm
+  - qemu-kvm-1.5.3-167.el7_7.1.src.rpm
+  - qemu-kvm-1.5.3-167.el7_7.1.x86_64.rpm
+  - qemu-kvm-common-1.5.3-167.el7_7.1.x86_64.rpm
+  - qemu-kvm-tools-1.5.3-167.el7_7.1.x86_64.rpm 

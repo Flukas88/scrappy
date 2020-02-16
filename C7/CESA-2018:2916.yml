@@ -1,0 +1,7 @@
+---
+cesa: CESA-2018:2916 
+os: '7'
+package: spamassassin
+rpms:
+  - spamassassin-3.4.0-5.el7_7.src.rpm
+  - spamassassin-3.4.0-5.el7_7.x86_64.rpm 

@@ -1,0 +1,14 @@
+---
+cesa: CESA-2020:0199 
+os: '6'
+package: openslp
+rpms:
+  - openslp-2.0.0-4.el6_10.i686.rpm
+  - openslp-2.0.0-4.el6_10.i686.rpm
+  - openslp-2.0.0-4.el6_10.src.rpm
+  - openslp-2.0.0-4.el6_10.x86_64.rpm
+  - openslp-devel-2.0.0-4.el6_10.i686.rpm
+  - openslp-devel-2.0.0-4.el6_10.i686.rpm
+  - openslp-devel-2.0.0-4.el6_10.x86_64.rpm
+  - openslp-server-2.0.0-4.el6_10.i686.rpm
+  - openslp-server-2.0.0-4.el6_10.x86_64.rpm 

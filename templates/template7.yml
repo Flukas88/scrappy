@@ -1,0 +1,8 @@
+---
+cesa: {{ cesa_number }} 
+os: '7'
+package: {{ package_name }}
+rpms:
+{%- for rpm in rpms %}
+  - {{ rpm }}
+{%- endfor %} 

@@ -1,0 +1,8 @@
+---
+cesa: CESA-2020:0194 
+os: '7'
+package: apache-commons-beanutils
+rpms:
+  - apache-commons-beanutils-1.8.3-15.el7_7.noarch.rpm
+  - apache-commons-beanutils-1.8.3-15.el7_7.src.rpm
+  - apache-commons-beanutils-javadoc-1.8.3-15.el7_7.noarch.rpm 

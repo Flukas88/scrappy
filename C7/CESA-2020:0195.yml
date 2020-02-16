@@ -1,0 +1,8 @@
+---
+cesa: CESA-2020:0195 
+os: '7'
+package: python-reportlab
+rpms:
+  - python-reportlab-2.5-9.el7_7.1.src.rpm
+  - python-reportlab-2.5-9.el7_7.1.x86_64.rpm
+  - python-reportlab-docs-2.5-9.el7_7.1.x86_64.rpm 

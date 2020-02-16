@@ -1,0 +1,10 @@
+---
+cesa: CESA-2019:2258 
+os: '7'
+package: http-parser
+rpms:
+  - http-parser-2.7.1-8.el7.i686.rpm
+  - http-parser-2.7.1-8.el7.src.rpm
+  - http-parser-2.7.1-8.el7.x86_64.rpm
+  - http-parser-devel-2.7.1-8.el7.i686.rpm
+  - http-parser-devel-2.7.1-8.el7.x86_64.rpm 

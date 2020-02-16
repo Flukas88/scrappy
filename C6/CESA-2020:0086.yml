@@ -1,0 +1,9 @@
+---
+cesa: CESA-2020:0086 
+os: '6'
+package: firefox
+rpms:
+  - firefox-68.4.1-1.el6.centos.i686.rpm
+  - firefox-68.4.1-1.el6.centos.i686.rpm
+  - firefox-68.4.1-1.el6.centos.src.rpm
+  - firefox-68.4.1-1.el6.centos.x86_64.rpm 

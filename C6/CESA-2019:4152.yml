@@ -1,0 +1,18 @@
+---
+cesa: CESA-2019:4152 
+os: '6'
+package: nss-softokn
+rpms:
+  - nss-softokn-3.44.0-6.el6_10.i686.rpm
+  - nss-softokn-3.44.0-6.el6_10.i686.rpm
+  - nss-softokn-3.44.0-6.el6_10.src.rpm
+  - nss-softokn-3.44.0-6.el6_10.x86_64.rpm
+  - nss-softokn-devel-3.44.0-6.el6_10.i686.rpm
+  - nss-softokn-devel-3.44.0-6.el6_10.i686.rpm
+  - nss-softokn-devel-3.44.0-6.el6_10.x86_64.rpm
+  - nss-softokn-freebl-3.44.0-6.el6_10.i686.rpm
+  - nss-softokn-freebl-3.44.0-6.el6_10.i686.rpm
+  - nss-softokn-freebl-3.44.0-6.el6_10.x86_64.rpm
+  - nss-softokn-freebl-devel-3.44.0-6.el6_10.i686.rpm
+  - nss-softokn-freebl-devel-3.44.0-6.el6_10.i686.rpm
+  - nss-softokn-freebl-devel-3.44.0-6.el6_10.x86_64.rpm 

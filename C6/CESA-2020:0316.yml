@@ -1,0 +1,30 @@
+---
+cesa: CESA-2020:0316 
+os: '6'
+package: git
+rpms:
+  - emacs-git-1.7.1-10.el6_10.noarch.rpm
+  - emacs-git-1.7.1-10.el6_10.noarch.rpm
+  - emacs-git-el-1.7.1-10.el6_10.noarch.rpm
+  - emacs-git-el-1.7.1-10.el6_10.noarch.rpm
+  - git-1.7.1-10.el6_10.i686.rpm
+  - git-1.7.1-10.el6_10.src.rpm
+  - git-1.7.1-10.el6_10.x86_64.rpm
+  - git-all-1.7.1-10.el6_10.noarch.rpm
+  - git-all-1.7.1-10.el6_10.noarch.rpm
+  - git-cvs-1.7.1-10.el6_10.noarch.rpm
+  - git-cvs-1.7.1-10.el6_10.noarch.rpm
+  - git-daemon-1.7.1-10.el6_10.i686.rpm
+  - git-daemon-1.7.1-10.el6_10.x86_64.rpm
+  - git-email-1.7.1-10.el6_10.noarch.rpm
+  - git-email-1.7.1-10.el6_10.noarch.rpm
+  - git-gui-1.7.1-10.el6_10.noarch.rpm
+  - git-gui-1.7.1-10.el6_10.noarch.rpm
+  - git-svn-1.7.1-10.el6_10.noarch.rpm
+  - git-svn-1.7.1-10.el6_10.noarch.rpm
+  - gitk-1.7.1-10.el6_10.noarch.rpm
+  - gitk-1.7.1-10.el6_10.noarch.rpm
+  - gitweb-1.7.1-10.el6_10.noarch.rpm
+  - gitweb-1.7.1-10.el6_10.noarch.rpm
+  - perl-Git-1.7.1-10.el6_10.noarch.rpm
+  - perl-Git-1.7.1-10.el6_10.noarch.rpm 

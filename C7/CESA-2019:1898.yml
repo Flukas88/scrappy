@@ -1,0 +1,14 @@
+---
+cesa: CESA-2019:1898 
+os: '7'
+package: httpd
+rpms:
+  - httpd-2.4.6-89.el7.centos.1.src.rpm
+  - httpd-2.4.6-89.el7.centos.1.x86_64.rpm
+  - httpd-devel-2.4.6-89.el7.centos.1.x86_64.rpm
+  - httpd-manual-2.4.6-89.el7.centos.1.noarch.rpm
+  - httpd-tools-2.4.6-89.el7.centos.1.x86_64.rpm
+  - mod_ldap-2.4.6-89.el7.centos.1.x86_64.rpm
+  - mod_proxy_html-2.4.6-89.el7.centos.1.x86_64.rpm
+  - mod_session-2.4.6-89.el7.centos.1.x86_64.rpm
+  - mod_ssl-2.4.6-89.el7.centos.1.x86_64.rpm 

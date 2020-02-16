@@ -1,0 +1,12 @@
+---
+cesa: CESA-2019:2101 
+os: '7'
+package: exiv2
+rpms:
+  - exiv2-0.27.0-2.el7_6.src.rpm
+  - exiv2-0.27.0-2.el7_6.x86_64.rpm
+  - exiv2-devel-0.27.0-2.el7_6.i686.rpm
+  - exiv2-devel-0.27.0-2.el7_6.x86_64.rpm
+  - exiv2-doc-0.27.0-2.el7_6.noarch.rpm
+  - exiv2-libs-0.27.0-2.el7_6.i686.rpm
+  - exiv2-libs-0.27.0-2.el7_6.x86_64.rpm 

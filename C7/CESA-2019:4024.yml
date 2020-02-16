@@ -1,0 +1,12 @@
+---
+cesa: CESA-2019:4024 
+os: '7'
+package: SDL
+rpms:
+  - SDL-1.2.15-15.el7_7.i686.rpm
+  - SDL-1.2.15-15.el7_7.src.rpm
+  - SDL-1.2.15-15.el7_7.x86_64.rpm
+  - SDL-devel-1.2.15-15.el7_7.i686.rpm
+  - SDL-devel-1.2.15-15.el7_7.x86_64.rpm
+  - SDL-static-1.2.15-15.el7_7.i686.rpm
+  - SDL-static-1.2.15-15.el7_7.x86_64.rpm 

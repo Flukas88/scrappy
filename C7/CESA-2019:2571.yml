@@ -1,0 +1,11 @@
+---
+cesa: CESA-2019:2571 
+os: '7'
+package: pango
+rpms:
+  - pango-1.42.4-4.el7_7.i686.rpm
+  - pango-1.42.4-4.el7_7.src.rpm
+  - pango-1.42.4-4.el7_7.x86_64.rpm
+  - pango-devel-1.42.4-4.el7_7.i686.rpm
+  - pango-devel-1.42.4-4.el7_7.x86_64.rpm
+  - pango-tests-1.42.4-4.el7_7.x86_64.rpm 

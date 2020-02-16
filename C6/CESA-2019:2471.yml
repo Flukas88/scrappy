@@ -1,0 +1,16 @@
+---
+cesa: CESA-2019:2471 
+os: '6'
+package: openssl
+rpms:
+  - openssl-1.0.1e-58.el6_10.i686.rpm
+  - openssl-1.0.1e-58.el6_10.i686.rpm
+  - openssl-1.0.1e-58.el6_10.src.rpm
+  - openssl-1.0.1e-58.el6_10.x86_64.rpm
+  - openssl-devel-1.0.1e-58.el6_10.i686.rpm
+  - openssl-devel-1.0.1e-58.el6_10.i686.rpm
+  - openssl-devel-1.0.1e-58.el6_10.x86_64.rpm
+  - openssl-perl-1.0.1e-58.el6_10.i686.rpm
+  - openssl-perl-1.0.1e-58.el6_10.x86_64.rpm
+  - openssl-static-1.0.1e-58.el6_10.i686.rpm
+  - openssl-static-1.0.1e-58.el6_10.x86_64.rpm 

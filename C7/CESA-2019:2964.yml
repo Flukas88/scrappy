@@ -1,0 +1,7 @@
+---
+cesa: CESA-2019:2964 
+os: '7'
+package: patch
+rpms:
+  - patch-2.7.1-12.el7_7.src.rpm
+  - patch-2.7.1-12.el7_7.x86_64.rpm 

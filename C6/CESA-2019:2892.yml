@@ -1,0 +1,11 @@
+---
+cesa: CESA-2019:2892 
+os: '6'
+package: qemu-kvm
+rpms:
+  - qemu-guest-agent-0.12.1.2-2.506.el6_10.5.i686.rpm
+  - qemu-guest-agent-0.12.1.2-2.506.el6_10.5.x86_64.rpm
+  - qemu-img-0.12.1.2-2.506.el6_10.5.x86_64.rpm
+  - qemu-kvm-0.12.1.2-2.506.el6_10.5.src.rpm
+  - qemu-kvm-0.12.1.2-2.506.el6_10.5.x86_64.rpm
+  - qemu-kvm-tools-0.12.1.2-2.506.el6_10.5.x86_64.rpm 

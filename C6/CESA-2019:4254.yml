@@ -1,0 +1,14 @@
+---
+cesa: CESA-2019:4254 
+os: '6'
+package: freetype
+rpms:
+  - freetype-2.3.11-19.el6_10.i686.rpm
+  - freetype-2.3.11-19.el6_10.i686.rpm
+  - freetype-2.3.11-19.el6_10.src.rpm
+  - freetype-2.3.11-19.el6_10.x86_64.rpm
+  - freetype-demos-2.3.11-19.el6_10.i686.rpm
+  - freetype-demos-2.3.11-19.el6_10.x86_64.rpm
+  - freetype-devel-2.3.11-19.el6_10.i686.rpm
+  - freetype-devel-2.3.11-19.el6_10.i686.rpm
+  - freetype-devel-2.3.11-19.el6_10.x86_64.rpm 

@@ -1,0 +1,14 @@
+---
+cesa: CESA-2019:4190 
+os: '7'
+package: 
+rpms:
+  - nss-3.44.0-7.el7_7.i686.rpm
+  - nss-3.44.0-7.el7_7.src.rpm
+  - nss-3.44.0-7.el7_7.x86_64.rpm
+  - nss-devel-3.44.0-7.el7_7.i686.rpm
+  - nss-devel-3.44.0-7.el7_7.x86_64.rpm
+  - nss-pkcs11-devel-3.44.0-7.el7_7.i686.rpm
+  - nss-pkcs11-devel-3.44.0-7.el7_7.x86_64.rpm
+  - nss-sysinit-3.44.0-7.el7_7.x86_64.rpm
+  - nss-tools-3.44.0-7.el7_7.x86_64.rpm 

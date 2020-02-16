@@ -1,0 +1,10 @@
+---
+cesa: CESA-2019:3981 
+os: '7'
+package: 389-ds-base
+rpms:
+  - 389-ds-base-1.3.9.1-12.el7_7.src.rpm
+  - 389-ds-base-1.3.9.1-12.el7_7.x86_64.rpm
+  - 389-ds-base-devel-1.3.9.1-12.el7_7.x86_64.rpm
+  - 389-ds-base-libs-1.3.9.1-12.el7_7.x86_64.rpm
+  - 389-ds-base-snmp-1.3.9.1-12.el7_7.x86_64.rpm 

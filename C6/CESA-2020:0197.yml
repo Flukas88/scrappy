@@ -1,0 +1,10 @@
+---
+cesa: CESA-2020:0197 
+os: '6'
+package: python-reportlab
+rpms:
+  - python-reportlab-2.3-3.el6_10.1.i686.rpm
+  - python-reportlab-2.3-3.el6_10.1.src.rpm
+  - python-reportlab-2.3-3.el6_10.1.x86_64.rpm
+  - python-reportlab-docs-2.3-3.el6_10.1.noarch.rpm
+  - python-reportlab-docs-2.3-3.el6_10.1.noarch.rpm 
