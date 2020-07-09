@@ -1,0 +1,8 @@
+---
+cesa: CESA-2020:1962
+os: '6'
+package: python-twisted-web
+rpms:
+  - python-twisted-web-8.2.0-6.el6_10.i686.rpm
+  - python-twisted-web-8.2.0-6.el6_10.src.rpm
+  - python-twisted-web-8.2.0-6.el6_10.x86_64.rpm

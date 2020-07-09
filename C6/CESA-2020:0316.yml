@@ -1,5 +1,5 @@
 ---
-cesa: CESA-2020:0316 
+cesa: CESA-2020:0316
 os: '6'
 package: git
 rpms:
@@ -27,4 +27,4 @@ rpms:
   - gitweb-1.7.1-10.el6_10.noarch.rpm
   - gitweb-1.7.1-10.el6_10.noarch.rpm
   - perl-Git-1.7.1-10.el6_10.noarch.rpm
-  - perl-Git-1.7.1-10.el6_10.noarch.rpm 
+  - perl-Git-1.7.1-10.el6_10.noarch.rpm

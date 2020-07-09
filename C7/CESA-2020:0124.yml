@@ -1,5 +1,5 @@
 ---
-cesa: CESA-2020:0124 
+cesa: CESA-2020:0124
 os: '7'
 package: git
 rpms:
@@ -21,4 +21,4 @@ rpms:
   - gitk-1.8.3.1-21.el7_7.noarch.rpm
   - gitweb-1.8.3.1-21.el7_7.noarch.rpm
   - perl-Git-1.8.3.1-21.el7_7.noarch.rpm
-  - perl-Git-SVN-1.8.3.1-21.el7_7.noarch.rpm 
+  - perl-Git-SVN-1.8.3.1-21.el7_7.noarch.rpm

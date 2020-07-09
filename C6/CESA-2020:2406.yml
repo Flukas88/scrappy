@@ -1,0 +1,16 @@
+---
+cesa: CESA-2020:2406
+os: '6'
+package: freerdp
+rpms:
+  - freerdp-1.0.2-7.el6_10.i686.rpm
+  - freerdp-1.0.2-7.el6_10.src.rpm
+  - freerdp-1.0.2-7.el6_10.x86_64.rpm
+  - freerdp-devel-1.0.2-7.el6_10.i686.rpm
+  - freerdp-devel-1.0.2-7.el6_10.i686.rpm
+  - freerdp-devel-1.0.2-7.el6_10.x86_64.rpm
+  - freerdp-libs-1.0.2-7.el6_10.i686.rpm
+  - freerdp-libs-1.0.2-7.el6_10.i686.rpm
+  - freerdp-libs-1.0.2-7.el6_10.x86_64.rpm
+  - freerdp-plugins-1.0.2-7.el6_10.i686.rpm
+  - freerdp-plugins-1.0.2-7.el6_10.x86_64.rpm

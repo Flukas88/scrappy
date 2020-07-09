@@ -1,0 +1,14 @@
+---
+cesa: CESA-2020:0702
+os: '6'
+package: xerces-c
+rpms:
+  - xerces-c-3.0.1-21.el6_10.i686.rpm
+  - xerces-c-3.0.1-21.el6_10.i686.rpm
+  - xerces-c-3.0.1-21.el6_10.src.rpm
+  - xerces-c-3.0.1-21.el6_10.x86_64.rpm
+  - xerces-c-devel-3.0.1-21.el6_10.i686.rpm
+  - xerces-c-devel-3.0.1-21.el6_10.i686.rpm
+  - xerces-c-devel-3.0.1-21.el6_10.x86_64.rpm
+  - xerces-c-doc-3.0.1-21.el6_10.noarch.rpm
+  - xerces-c-doc-3.0.1-21.el6_10.noarch.rpm

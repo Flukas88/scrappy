@@ -1,0 +1,10 @@
+---
+cesa: CESA-2020:1335
+os: '6'
+package: telnet
+rpms:
+  - telnet-0.17-49.el6_10.i686.rpm
+  - telnet-0.17-49.el6_10.src.rpm
+  - telnet-0.17-49.el6_10.x86_64.rpm
+  - telnet-server-0.17-49.el6_10.i686.rpm
+  - telnet-server-0.17-49.el6_10.x86_64.rpm

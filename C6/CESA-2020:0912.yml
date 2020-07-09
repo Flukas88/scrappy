@@ -1,0 +1,24 @@
+---
+cesa: CESA-2020:0912
+os: '6'
+package: tomcat6
+rpms:
+  - tomcat6-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-6.0.24-114.el6_10.src.rpm
+  - tomcat6-admin-webapps-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-admin-webapps-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-docs-webapp-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-docs-webapp-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-el-2.1-api-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-el-2.1-api-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-javadoc-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-javadoc-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-jsp-2.1-api-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-jsp-2.1-api-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-lib-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-lib-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-servlet-2.5-api-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-servlet-2.5-api-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-webapps-6.0.24-114.el6_10.noarch.rpm
+  - tomcat6-webapps-6.0.24-114.el6_10.noarch.rpm

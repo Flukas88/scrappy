@@ -1,0 +1,8 @@
+---
+cesa: CESA-2020:1331
+os: '6'
+package: ipmitool
+rpms:
+  - ipmitool-1.8.15-3.el6_10.i686.rpm
+  - ipmitool-1.8.15-3.el6_10.src.rpm
+  - ipmitool-1.8.15-3.el6_10.x86_64.rpm

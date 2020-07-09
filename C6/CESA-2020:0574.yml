@@ -1,0 +1,8 @@
+---
+cesa: CESA-2020:0574
+os: '6'
+package: thunderbird
+rpms:
+  - thunderbird-68.5.0-1.el6.centos.i686.rpm
+  - thunderbird-68.5.0-1.el6.centos.src.rpm
+  - thunderbird-68.5.0-1.el6.centos.x86_64.rpm

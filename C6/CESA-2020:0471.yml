@@ -1,5 +1,5 @@
 ---
-cesa: CESA-2020:0471 
+cesa: CESA-2020:0471
 os: '6'
 package: spice-gtk
 rpms:
@@ -19,4 +19,4 @@ rpms:
   - spice-gtk-python-0.26-8.el6_10.2.i686.rpm
   - spice-gtk-python-0.26-8.el6_10.2.x86_64.rpm
   - spice-gtk-tools-0.26-8.el6_10.2.i686.rpm
-  - spice-gtk-tools-0.26-8.el6_10.2.x86_64.rpm 
+  - spice-gtk-tools-0.26-8.el6_10.2.x86_64.rpm

@@ -1,0 +1,7 @@
+---
+cesa: CESA-2020:0851
+os: '7'
+package: python-virtualenv
+rpms:
+  - python-virtualenv-15.1.0-4.el7_7.noarch.rpm
+  - python-virtualenv-15.1.0-4.el7_7.src.rpm

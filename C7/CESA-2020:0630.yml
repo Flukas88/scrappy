@@ -1,0 +1,9 @@
+---
+cesa: CESA-2020:0630
+os: '7'
+package: ppp
+rpms:
+  - ppp-2.4.5-34.el7_7.src.rpm
+  - ppp-2.4.5-34.el7_7.x86_64.rpm
+  - ppp-devel-2.4.5-34.el7_7.i686.rpm
+  - ppp-devel-2.4.5-34.el7_7.x86_64.rpm

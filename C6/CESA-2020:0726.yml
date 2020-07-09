@@ -1,0 +1,11 @@
+---
+cesa: CESA-2020:0726
+os: '6'
+package: sudo
+rpms:
+  - sudo-1.8.6p3-29.el6_10.3.i686.rpm
+  - sudo-1.8.6p3-29.el6_10.3.src.rpm
+  - sudo-1.8.6p3-29.el6_10.3.x86_64.rpm
+  - sudo-devel-1.8.6p3-29.el6_10.3.i686.rpm
+  - sudo-devel-1.8.6p3-29.el6_10.3.i686.rpm
+  - sudo-devel-1.8.6p3-29.el6_10.3.x86_64.rpm

@@ -1,0 +1,14 @@
+---
+cesa: CESA-2020:0578
+os: '7'
+package: python-pillow
+rpms:
+  - python-pillow-2.0.0-20.gitd1c6db8.el7_7.i686.rpm
+  - python-pillow-2.0.0-20.gitd1c6db8.el7_7.src.rpm
+  - python-pillow-2.0.0-20.gitd1c6db8.el7_7.x86_64.rpm
+  - python-pillow-devel-2.0.0-20.gitd1c6db8.el7_7.i686.rpm
+  - python-pillow-devel-2.0.0-20.gitd1c6db8.el7_7.x86_64.rpm
+  - python-pillow-doc-2.0.0-20.gitd1c6db8.el7_7.x86_64.rpm
+  - python-pillow-qt-2.0.0-20.gitd1c6db8.el7_7.x86_64.rpm
+  - python-pillow-sane-2.0.0-20.gitd1c6db8.el7_7.x86_64.rpm
+  - python-pillow-tk-2.0.0-20.gitd1c6db8.el7_7.x86_64.rpm

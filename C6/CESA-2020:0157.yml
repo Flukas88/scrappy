@@ -1,5 +1,5 @@
 ---
-cesa: CESA-2020:0157 
+cesa: CESA-2020:0157
 os: '6'
 package: java-1.8.0-openjdk
 rpms:
@@ -27,4 +27,4 @@ rpms:
   - java-1.8.0-openjdk-src-1.8.0.242.b07-1.el6_10.i686.rpm
   - java-1.8.0-openjdk-src-1.8.0.242.b07-1.el6_10.x86_64.rpm
   - java-1.8.0-openjdk-src-debug-1.8.0.242.b07-1.el6_10.i686.rpm
-  - java-1.8.0-openjdk-src-debug-1.8.0.242.b07-1.el6_10.x86_64.rpm 
+  - java-1.8.0-openjdk-src-debug-1.8.0.242.b07-1.el6_10.x86_64.rpm

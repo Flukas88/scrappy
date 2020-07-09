@@ -1,0 +1,9 @@
+---
+cesa: CESA-2020:0540
+os: '7'
+package: sudo
+rpms:
+  - sudo-1.8.23-4.el7_7.2.src.rpm
+  - sudo-1.8.23-4.el7_7.2.x86_64.rpm
+  - sudo-devel-1.8.23-4.el7_7.2.i686.rpm
+  - sudo-devel-1.8.23-4.el7_7.2.x86_64.rpm

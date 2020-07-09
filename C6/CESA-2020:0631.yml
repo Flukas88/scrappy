@@ -1,0 +1,11 @@
+---
+cesa: CESA-2020:0631
+os: '6'
+package: ppp
+rpms:
+  - ppp-2.4.5-11.el6_10.i686.rpm
+  - ppp-2.4.5-11.el6_10.src.rpm
+  - ppp-2.4.5-11.el6_10.x86_64.rpm
+  - ppp-devel-2.4.5-11.el6_10.i686.rpm
+  - ppp-devel-2.4.5-11.el6_10.i686.rpm
+  - ppp-devel-2.4.5-11.el6_10.x86_64.rpm

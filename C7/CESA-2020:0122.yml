@@ -1,5 +1,5 @@
 ---
-cesa: CESA-2020:0122 
+cesa: CESA-2020:0122
 os: '7'
 package: java-11-openjdk
 rpms:
@@ -35,4 +35,4 @@ rpms:
   - java-11-openjdk-src-11.0.6.10-1.el7_7.i686.rpm
   - java-11-openjdk-src-11.0.6.10-1.el7_7.x86_64.rpm
   - java-11-openjdk-src-debug-11.0.6.10-1.el7_7.i686.rpm
-  - java-11-openjdk-src-debug-11.0.6.10-1.el7_7.x86_64.rpm 
+  - java-11-openjdk-src-debug-11.0.6.10-1.el7_7.x86_64.rpm

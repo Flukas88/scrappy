@@ -1,0 +1,9 @@
+---
+cesa: CESA-2020:0984
+os: '7'
+package: ipmitool
+rpms:
+  - bmc-snmp-proxy-1.8.18-9.el7_7.noarch.rpm
+  - exchange-bmc-os-info-1.8.18-9.el7_7.noarch.rpm
+  - ipmitool-1.8.18-9.el7_7.src.rpm
+  - ipmitool-1.8.18-9.el7_7.x86_64.rpm

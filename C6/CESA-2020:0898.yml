@@ -1,0 +1,14 @@
+---
+cesa: CESA-2020:0898
+os: '6'
+package: python-imaging
+rpms:
+  - python-imaging-1.1.6-20.el6_10.i686.rpm
+  - python-imaging-1.1.6-20.el6_10.src.rpm
+  - python-imaging-1.1.6-20.el6_10.x86_64.rpm
+  - python-imaging-devel-1.1.6-20.el6_10.i686.rpm
+  - python-imaging-devel-1.1.6-20.el6_10.x86_64.rpm
+  - python-imaging-sane-1.1.6-20.el6_10.i686.rpm
+  - python-imaging-sane-1.1.6-20.el6_10.x86_64.rpm
+  - python-imaging-tk-1.1.6-20.el6_10.i686.rpm
+  - python-imaging-tk-1.1.6-20.el6_10.x86_64.rpm

@@ -1,0 +1,7 @@
+---
+cesa: CESA-2020:0568
+os: '7'
+package: ksh
+rpms:
+  - ksh-20120801-140.el7_7.src.rpm
+  - ksh-20120801-140.el7_7.x86_64.rpm

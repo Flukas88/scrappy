@@ -1,5 +1,5 @@
 ---
-cesa: CESA-2020:0366 
+cesa: CESA-2020:0366
 os: '7'
 package: qemu-kvm
 rpms:
@@ -7,4 +7,4 @@ rpms:
   - qemu-kvm-1.5.3-167.el7_7.4.src.rpm
   - qemu-kvm-1.5.3-167.el7_7.4.x86_64.rpm
   - qemu-kvm-common-1.5.3-167.el7_7.4.x86_64.rpm
-  - qemu-kvm-tools-1.5.3-167.el7_7.4.x86_64.rpm 
+  - qemu-kvm-tools-1.5.3-167.el7_7.4.x86_64.rpm

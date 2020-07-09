@@ -1,0 +1,6 @@
+---
+cesa: CESA-2020:2414
+os: '7'
+package: unbound
+rpms:
+  - unbound-1.6.6-4.el7_8.src.rpm
