@@ -1,0 +1,12 @@
+---
+cesa: CESA-2020:3617
+os: '7'
+package: dovecot
+rpms:
+  - dovecot-2.2.36-6.el7_8.1.i686.rpm
+  - dovecot-2.2.36-6.el7_8.1.src.rpm
+  - dovecot-2.2.36-6.el7_8.1.x86_64.rpm
+  - dovecot-devel-2.2.36-6.el7_8.1.x86_64.rpm
+  - dovecot-mysql-2.2.36-6.el7_8.1.x86_64.rpm
+  - dovecot-pgsql-2.2.36-6.el7_8.1.x86_64.rpm
+  - dovecot-pigeonhole-2.2.36-6.el7_8.1.x86_64.rpm

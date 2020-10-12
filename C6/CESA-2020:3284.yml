@@ -1,0 +1,8 @@
+---
+cesa: CESA-2020:3284
+os: '6'
+package: postgresql-jdbc
+rpms:
+  - postgresql-jdbc-8.4.704-4.el6_10.noarch.rpm
+  - postgresql-jdbc-8.4.704-4.el6_10.noarch.rpm
+  - postgresql-jdbc-8.4.704-4.el6_10.src.rpm

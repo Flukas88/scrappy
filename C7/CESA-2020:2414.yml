@@ -4,3 +4,9 @@ os: '7'
 package: unbound
 rpms:
   - unbound-1.6.6-4.el7_8.src.rpm
+  - unbound-1.6.6-4.el7_8.x86_64.rpm
+  - unbound-devel-1.6.6-4.el7_8.i686.rpm
+  - unbound-devel-1.6.6-4.el7_8.x86_64.rpm
+  - unbound-libs-1.6.6-4.el7_8.i686.rpm
+  - unbound-libs-1.6.6-4.el7_8.x86_64.rpm
+  - unbound-python-1.6.6-4.el7_8.x86_64.rpm

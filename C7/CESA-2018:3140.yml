@@ -1,0 +1,10 @@
+---
+cesa: CESA-2018:3140
+os: '7'
+package: fwupdate
+rpms:
+  - fwupdate-12-6.el7.centos.src.rpm
+  - fwupdate-12-6.el7.centos.x86_64.rpm
+  - fwupdate-devel-12-6.el7.centos.x86_64.rpm
+  - fwupdate-efi-12-6.el7.centos.x86_64.rpm
+  - fwupdate-libs-12-6.el7.centos.x86_64.rpm

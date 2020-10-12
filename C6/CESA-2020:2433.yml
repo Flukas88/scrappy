@@ -1,7 +1,7 @@
 ---
 cesa: CESA-2020:2433
 os: '6'
-package: microcode_ctl
+package: 
 rpms:
   - microcode_ctl-1.17-33.26.el6_10.i686.rpm
   - microcode_ctl-1.17-33.26.el6_10.src.rpm
