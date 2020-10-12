@@ -1,8 +1,0 @@
----
-cesa: CESA-2019:3067 
-os: '7'
-package: jss
-rpms:
-  - jss-4.4.6-3.el7_7.src.rpm
-  - jss-4.4.6-3.el7_7.x86_64.rpm
-  - jss-javadoc-4.4.6-3.el7_7.x86_64.rpm 

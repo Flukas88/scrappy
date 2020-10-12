@@ -1,7 +1,0 @@
----
-cesa: CESA-2019:3976 
-os: '7'
-package: tcpdump
-rpms:
-  - tcpdump-4.9.2-4.el7_7.1.src.rpm
-  - tcpdump-4.9.2-4.el7_7.1.x86_64.rpm 

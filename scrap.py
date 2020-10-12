@@ -68,8 +68,11 @@ def get_cesa_links(max_link=80):
         cesas = [link['href'] for link in soup.findAll(
             'a', href=True) if re.match(cesa_pattern, link.text)]
     cesa_links = {}
-    for cesa in cesas:
-        cesa_links[cesa.split("/")[2]] = lwn_url + cesa
+    if cesas is None:
+        print("No links found from LWN.net")
+    else:
+        for cesa in cesas:
+            cesa_links[cesa.split("/")[2]] = lwn_url + cesa
     return cesa_links
 
 
@@ -153,4 +156,8 @@ def get_cesa_details(cesa_found, official=False):
 
 if __name__ == "__main__":
     get_cesa_details(get_cesa_links(250))
-    get_cesa_details(get_cesa_links_official(), True)
+
+    try:
+        get_cesa_details(get_cesa_links_official(), True)
+    except IndexError:
+        print("Error in finding content from Centos OM!")

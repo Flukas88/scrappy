@@ -1,9 +1,0 @@
----
-cesa: CESA-2019:4108 
-os: '6'
-package: firefox
-rpms:
-  - firefox-68.3.0-1.el6.centos.i686.rpm
-  - firefox-68.3.0-1.el6.centos.i686.rpm
-  - firefox-68.3.0-1.el6.centos.src.rpm
-  - firefox-68.3.0-1.el6.centos.x86_64.rpm 

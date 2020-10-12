@@ -1,8 +1,0 @@
----
-cesa: CESA-2019:4205 
-os: '6'
-package: thunderbird
-rpms:
-  - thunderbird-68.3.0-3.el6.centos.i686.rpm
-  - thunderbird-68.3.0-3.el6.centos.src.rpm
-  - thunderbird-68.3.0-3.el6.centos.x86_64.rpm 
