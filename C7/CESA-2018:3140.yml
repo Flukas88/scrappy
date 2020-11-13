@@ -1,7 +1,7 @@
 ---
 cesa: CESA-2018:3140
 os: '7'
-package: fwupdate
+package: GNOME
 rpms:
   - fwupdate-12-6.el7.centos.src.rpm
   - fwupdate-12-6.el7.centos.x86_64.rpm

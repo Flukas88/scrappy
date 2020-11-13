@@ -1,0 +1,20 @@
+---
+cesa: CESA-2020:4183
+os: '6'
+package: bind
+rpms:
+  - bind-9.8.2-0.68.rc1.el6_10.8.i686.rpm
+  - bind-9.8.2-0.68.rc1.el6_10.8.src.rpm
+  - bind-9.8.2-0.68.rc1.el6_10.8.x86_64.rpm
+  - bind-chroot-9.8.2-0.68.rc1.el6_10.8.i686.rpm
+  - bind-chroot-9.8.2-0.68.rc1.el6_10.8.x86_64.rpm
+  - bind-devel-9.8.2-0.68.rc1.el6_10.8.i686.rpm
+  - bind-devel-9.8.2-0.68.rc1.el6_10.8.i686.rpm
+  - bind-devel-9.8.2-0.68.rc1.el6_10.8.x86_64.rpm
+  - bind-libs-9.8.2-0.68.rc1.el6_10.8.i686.rpm
+  - bind-libs-9.8.2-0.68.rc1.el6_10.8.i686.rpm
+  - bind-libs-9.8.2-0.68.rc1.el6_10.8.x86_64.rpm
+  - bind-sdb-9.8.2-0.68.rc1.el6_10.8.i686.rpm
+  - bind-sdb-9.8.2-0.68.rc1.el6_10.8.x86_64.rpm
+  - bind-utils-9.8.2-0.68.rc1.el6_10.8.i686.rpm
+  - bind-utils-9.8.2-0.68.rc1.el6_10.8.x86_64.rpm
