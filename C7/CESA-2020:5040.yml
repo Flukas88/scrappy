@@ -1,0 +1,41 @@
+---
+cesa: CESA-2020:5040
+os: '7'
+package: libvirt
+rpms:
+  - libvirt-4.5.0-36.el7_9.3.src.rpm
+  - libvirt-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-admin-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-bash-completion-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-client-4.5.0-36.el7_9.3.i686.rpm
+  - libvirt-client-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-config-network-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-config-nwfilter-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-interface-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-lxc-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-network-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-nodedev-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-nwfilter-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-qemu-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-secret-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-storage-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-storage-core-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-storage-disk-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-storage-gluster-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-storage-iscsi-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-storage-logical-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-storage-mpath-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-storage-rbd-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-driver-storage-scsi-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-kvm-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-daemon-lxc-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-devel-4.5.0-36.el7_9.3.i686.rpm
+  - libvirt-devel-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-docs-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-libs-4.5.0-36.el7_9.3.i686.rpm
+  - libvirt-libs-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-lock-sanlock-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-login-shell-4.5.0-36.el7_9.3.x86_64.rpm
+  - libvirt-nss-4.5.0-36.el7_9.3.i686.rpm
+  - libvirt-nss-4.5.0-36.el7_9.3.x86_64.rpm

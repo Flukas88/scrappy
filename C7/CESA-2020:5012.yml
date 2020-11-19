@@ -1,0 +1,11 @@
+---
+cesa: CESA-2020:5012
+os: '7'
+package: librepo
+rpms:
+  - librepo-1.8.1-8.el7_9.i686.rpm
+  - librepo-1.8.1-8.el7_9.src.rpm
+  - librepo-1.8.1-8.el7_9.x86_64.rpm
+  - librepo-devel-1.8.1-8.el7_9.i686.rpm
+  - librepo-devel-1.8.1-8.el7_9.x86_64.rpm
+  - python-librepo-1.8.1-8.el7_9.x86_64.rpm

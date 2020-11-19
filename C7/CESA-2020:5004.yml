@@ -1,0 +1,9 @@
+---
+cesa: CESA-2020:5004
+os: '7'
+package: resource-agents
+rpms:
+  - resource-agents-4.1.1-61.el7_9.4.src.rpm
+  - resource-agents-4.1.1-61.el7_9.4.x86_64.rpm
+  - resource-agents-aliyun-4.1.1-61.el7_9.4.x86_64.rpm
+  - resource-agents-gcp-4.1.1-61.el7_9.4.x86_64.rpm

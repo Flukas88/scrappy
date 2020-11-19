@@ -1,0 +1,11 @@
+---
+cesa: CESA-2020:5002
+os: '7'
+package: curl
+rpms:
+  - curl-7.29.0-59.el7_9.1.src.rpm
+  - curl-7.29.0-59.el7_9.1.x86_64.rpm
+  - libcurl-7.29.0-59.el7_9.1.i686.rpm
+  - libcurl-7.29.0-59.el7_9.1.x86_64.rpm
+  - libcurl-devel-7.29.0-59.el7_9.1.i686.rpm
+  - libcurl-devel-7.29.0-59.el7_9.1.x86_64.rpm
