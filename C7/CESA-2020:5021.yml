@@ -1,0 +1,24 @@
+---
+cesa: CESA-2020:5021
+os: '7'
+package: 
+rpms:
+  - qt5-qtbase-5.9.7-5.el7_9.i686.rpm
+  - qt5-qtbase-5.9.7-5.el7_9.src.rpm
+  - qt5-qtbase-5.9.7-5.el7_9.x86_64.rpm
+  - qt5-qtbase-common-5.9.7-5.el7_9.noarch.rpm
+  - qt5-qtbase-devel-5.9.7-5.el7_9.i686.rpm
+  - qt5-qtbase-devel-5.9.7-5.el7_9.x86_64.rpm
+  - qt5-qtbase-doc-5.9.7-5.el7_9.x86_64.rpm
+  - qt5-qtbase-examples-5.9.7-5.el7_9.x86_64.rpm
+  - qt5-qtbase-gui-5.9.7-5.el7_9.i686.rpm
+  - qt5-qtbase-gui-5.9.7-5.el7_9.x86_64.rpm
+  - qt5-qtbase-mysql-5.9.7-5.el7_9.i686.rpm
+  - qt5-qtbase-mysql-5.9.7-5.el7_9.x86_64.rpm
+  - qt5-qtbase-odbc-5.9.7-5.el7_9.i686.rpm
+  - qt5-qtbase-odbc-5.9.7-5.el7_9.x86_64.rpm
+  - qt5-qtbase-postgresql-5.9.7-5.el7_9.i686.rpm
+  - qt5-qtbase-postgresql-5.9.7-5.el7_9.x86_64.rpm
+  - qt5-qtbase-static-5.9.7-5.el7_9.i686.rpm
+  - qt5-qtbase-static-5.9.7-5.el7_9.x86_64.rpm
+  - qt5-rpm-macros-5.9.7-5.el7_9.noarch.rpm

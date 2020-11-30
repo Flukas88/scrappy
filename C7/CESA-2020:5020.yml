@@ -1,0 +1,16 @@
+---
+cesa: CESA-2020:5020
+os: '7'
+package: tomcat
+rpms:
+  - tomcat-7.0.76-16.el7_9.noarch.rpm
+  - tomcat-7.0.76-16.el7_9.src.rpm
+  - tomcat-admin-webapps-7.0.76-16.el7_9.noarch.rpm
+  - tomcat-docs-webapp-7.0.76-16.el7_9.noarch.rpm
+  - tomcat-el-2.2-api-7.0.76-16.el7_9.noarch.rpm
+  - tomcat-javadoc-7.0.76-16.el7_9.noarch.rpm
+  - tomcat-jsp-2.2-api-7.0.76-16.el7_9.noarch.rpm
+  - tomcat-jsvc-7.0.76-16.el7_9.noarch.rpm
+  - tomcat-lib-7.0.76-16.el7_9.noarch.rpm
+  - tomcat-servlet-3.0-api-7.0.76-16.el7_9.noarch.rpm
+  - tomcat-webapps-7.0.76-16.el7_9.noarch.rpm
