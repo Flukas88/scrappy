@@ -3,7 +3,6 @@ cesa: CESA-2020:3217
 os: '7'
 package: grub2
 rpms:
-  - mokutil-15-7.el7_9.x86_64.rpm
-  - shim-ia32-15-7.el7_9.x86_64.rpm
-  - shim-signed-15-7.el7_9.src.rpm
-  - shim-x64-15-7.el7_9.x86_64.rpm
+  - shim-15-7.el7_9.src.rpm
+  - shim-unsigned-ia32-15-7.el7_9.x86_64.rpm
+  - shim-unsigned-x64-15-7.el7_9.x86_64.rpm

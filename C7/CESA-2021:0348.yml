@@ -1,0 +1,16 @@
+---
+cesa: CESA-2021:0348
+os: '7'
+package: glibc
+rpms:
+  - glibc-2.17-322.el7_9.i686.rpm
+  - glibc-2.17-322.el7_9.src.rpm
+  - glibc-2.17-322.el7_9.x86_64.rpm
+  - glibc-common-2.17-322.el7_9.x86_64.rpm
+  - glibc-devel-2.17-322.el7_9.i686.rpm
+  - glibc-devel-2.17-322.el7_9.x86_64.rpm
+  - glibc-headers-2.17-322.el7_9.x86_64.rpm
+  - glibc-static-2.17-322.el7_9.i686.rpm
+  - glibc-static-2.17-322.el7_9.x86_64.rpm
+  - glibc-utils-2.17-322.el7_9.x86_64.rpm
+  - nscd-2.17-322.el7_9.x86_64.rpm

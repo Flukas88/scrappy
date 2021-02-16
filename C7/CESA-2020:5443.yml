@@ -1,0 +1,11 @@
+---
+cesa: CESA-2020:5443
+os: '7'
+package: gd
+rpms:
+  - gd-2.0.35-27.el7_9.i686.rpm
+  - gd-2.0.35-27.el7_9.src.rpm
+  - gd-2.0.35-27.el7_9.x86_64.rpm
+  - gd-devel-2.0.35-27.el7_9.i686.rpm
+  - gd-devel-2.0.35-27.el7_9.x86_64.rpm
+  - gd-progs-2.0.35-27.el7_9.x86_64.rpm

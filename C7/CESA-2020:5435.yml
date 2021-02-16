@@ -1,0 +1,8 @@
+---
+cesa: CESA-2020:5435
+os: '7'
+package: python-rtslib
+rpms:
+  - python-rtslib-2.1.74-1.el7_9.noarch.rpm
+  - python-rtslib-2.1.74-1.el7_9.src.rpm
+  - python-rtslib-doc-2.1.74-1.el7_9.noarch.rpm

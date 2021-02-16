@@ -1,0 +1,7 @@
+---
+cesa: CESA-2020:5235
+os: '7'
+package: thunderbird
+rpms:
+  - thunderbird-78.5.0-1.el7.centos.src.rpm
+  - thunderbird-78.5.0-1.el7.centos.x86_64.rpm

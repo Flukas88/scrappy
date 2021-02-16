@@ -1,0 +1,18 @@
+---
+cesa: CESA-2020:5350
+os: '7'
+package: net-snmp
+rpms:
+  - net-snmp-5.7.2-49.el7_9.1.src.rpm
+  - net-snmp-5.7.2-49.el7_9.1.x86_64.rpm
+  - net-snmp-agent-libs-5.7.2-49.el7_9.1.i686.rpm
+  - net-snmp-agent-libs-5.7.2-49.el7_9.1.x86_64.rpm
+  - net-snmp-devel-5.7.2-49.el7_9.1.i686.rpm
+  - net-snmp-devel-5.7.2-49.el7_9.1.x86_64.rpm
+  - net-snmp-gui-5.7.2-49.el7_9.1.x86_64.rpm
+  - net-snmp-libs-5.7.2-49.el7_9.1.i686.rpm
+  - net-snmp-libs-5.7.2-49.el7_9.1.x86_64.rpm
+  - net-snmp-perl-5.7.2-49.el7_9.1.x86_64.rpm
+  - net-snmp-python-5.7.2-49.el7_9.1.x86_64.rpm
+  - net-snmp-sysvinit-5.7.2-49.el7_9.1.x86_64.rpm
+  - net-snmp-utils-5.7.2-49.el7_9.1.x86_64.rpm

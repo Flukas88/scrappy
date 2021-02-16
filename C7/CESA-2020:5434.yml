@@ -1,0 +1,7 @@
+---
+cesa: CESA-2020:5434
+os: '7'
+package: targetcli
+rpms:
+  - targetcli-2.1.53-1.el7_9.noarch.rpm
+  - targetcli-2.1.53-1.el7_9.src.rpm
