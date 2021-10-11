@@ -1,0 +1,21 @@
+---
+cesa: CESA-2018:3140
+os: '7'
+package: GNOME
+rpms:
+  - gvfs-1.36.2-5.el7_9.i686.rpm
+  - gvfs-1.36.2-5.el7_9.src.rpm
+  - gvfs-1.36.2-5.el7_9.x86_64.rpm
+  - gvfs-afc-1.36.2-5.el7_9.x86_64.rpm
+  - gvfs-afp-1.36.2-5.el7_9.x86_64.rpm
+  - gvfs-archive-1.36.2-5.el7_9.x86_64.rpm
+  - gvfs-client-1.36.2-5.el7_9.i686.rpm
+  - gvfs-client-1.36.2-5.el7_9.x86_64.rpm
+  - gvfs-devel-1.36.2-5.el7_9.i686.rpm
+  - gvfs-devel-1.36.2-5.el7_9.x86_64.rpm
+  - gvfs-fuse-1.36.2-5.el7_9.x86_64.rpm
+  - gvfs-goa-1.36.2-5.el7_9.x86_64.rpm
+  - gvfs-gphoto2-1.36.2-5.el7_9.x86_64.rpm
+  - gvfs-mtp-1.36.2-5.el7_9.x86_64.rpm
+  - gvfs-smb-1.36.2-5.el7_9.x86_64.rpm
+  - gvfs-tests-1.36.2-5.el7_9.x86_64.rpm

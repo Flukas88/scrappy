@@ -38,21 +38,7 @@ def clean_word(word):
     return word.replace('[', '').replace(']', '').replace("'", '')
 
 
-def get_cesa_links_official():
-    '''Returns a list: of CESA links to be processed from CentOS ML'''
-    cesa_url = "http://centos-announce.2309468.n4.nabble.com/"
-    cesa_pattern = ".*CESA.*"
-    response = requests.get(cesa_url)
-    soup = BeautifulSoup(response.text, 'html.parser')
-    cesa_links = []
-    for single_link in soup.find_all('a', href=True):
-        if re.match(cesa_pattern, single_link.text):
-            cesa_links.append(
-                'http://centos-announce.2309468.n4.nabble.com{}'.format(single_link['href']))
-    return cesa_links
-
-
-def get_cesa_links(max_link=80):
+def get_cesa_links(max_link=50):
     """Returns a list: of CESA links to be processed from LWN
 
     Args:
@@ -76,7 +62,7 @@ def get_cesa_links(max_link=80):
     return cesa_links
 
 
-def get_cesa_details(cesa_found, official=False):
+def get_cesa_details(cesa_found):
     """Parse the CESAs and generates the yaml files for ATLAS
 
     Args:
@@ -107,56 +93,28 @@ def get_cesa_details(cesa_found, official=False):
         cesa_title = clean_word(str(re.findall(package_pattern, str(soup.title))).replace(
             '(', '').replace(')', ''))
         cesa_os = str(re.findall(centos_version_pattern, str(response)))
-        if official is True:
-            if '6' in cesa_os:
-                cesa_title = str(re.findall(
-                    r"CentOS\s[0-9]\s(.*)\sSecurity", str(soup.title)))
-                cesa_subject = cesa_title + "#" + cesa_number
-                cesa_to_6_template[cesa_subject] = re.findall(
-                    prm_pattern, str(soup.find('div', {"class": "message-text adbayes-content"})))
-                rpms = sorted(cesa_to_6_template[cesa_subject])
-                with open('templates/template6.yml') as file_:
-                    template = Template(file_.read())
-                    template.stream(cesa_number=cesa_number,
-                                    package_name=str(clean_word(cesa_title)),
-                                    rpms=rpms).dump('C6/'+cesa_number+'.yml')
-            else:
-                cesa_title = str(re.findall(
-                    r"CentOS\s[0-9]\s(.*)\sSecurity", str(soup.title)))
-                cesa_subject = cesa_title + "#" + cesa_number
-                cesa_to_7_template[cesa_subject] = re.findall(
-                    prm_pattern, str(soup.find('div', {"class": "message-text adbayes-content"})))
-                rpms = sorted(cesa_to_7_template[cesa_subject])
-                with open('templates/template7.yml') as file_:
-                    template = Template(file_.read())
-                    template.stream(cesa_number=cesa_number,
-                                    package_name=str(clean_word(cesa_title)),
-                                    rpms=rpms).dump('C7/'+cesa_number+'.yml')
-
+        if '6' in cesa_os:
+            cesa_subject = cesa_title + "#" + cesa_number
+            cesa_to_6_template[cesa_subject] = re.findall(
+                prm_pattern, soup.find('p').text)
+            rpms = sorted(cesa_to_6_template[cesa_subject])
+            with open('templates/template6.yml') as file_:
+                template = Template(file_.read())
+                template.stream(cesa_number=cesa_number, package_name=cesa_title,
+                                rpms=rpms).dump('C6/'+cesa_number+'.yml')
         else:
-            if '6' in cesa_os:
-                cesa_subject = cesa_title + "#" + cesa_number
-                cesa_to_6_template[cesa_subject] = re.findall(
-                    prm_pattern, soup.find('p').text)
-                rpms = sorted(cesa_to_6_template[cesa_subject])
-                with open('templates/template6.yml') as file_:
-                    template = Template(file_.read())
-                    template.stream(cesa_number=cesa_number, package_name=cesa_title,
-                                    rpms=rpms).dump('C6/'+cesa_number+'.yml')
-            else:
-                cesa_subject = cesa_title + "#" + cesa_number
-                cesa_to_7_template[cesa_subject] = re.findall(
-                    prm_pattern, soup.find('p').text)
-                rpms = sorted(cesa_to_7_template[cesa_subject])
-                with open('templates/template7.yml') as file_:
-                    template = Template(file_.read())
-                    template.stream(cesa_number=cesa_number, package_name=cesa_title,
-                                    rpms=rpms).dump('C7/'+cesa_number+'.yml')
+            cesa_subject = cesa_title + "#" + cesa_number
+            cesa_to_7_template[cesa_subject] = re.findall(
+                prm_pattern, soup.find('p').text)
+            rpms = sorted(cesa_to_7_template[cesa_subject])
+            with open('templates/template7.yml') as file_:
+                template = Template(file_.read())
+                template.stream(cesa_number=cesa_number, package_name=cesa_title,
+                                rpms=rpms).dump('C7/'+cesa_number+'.yml')
 
 
 if __name__ == "__main__":
-    # get_cesa_details(get_cesa_links(150))
     try:
-        get_cesa_details(get_cesa_links(100))
+        get_cesa_details(get_cesa_links())
     except IndexError:
         print("Error in finding content from LWN.net!")

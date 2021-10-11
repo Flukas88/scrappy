@@ -1,0 +1,15 @@
+---
+cesa: CESA-2021:3338
+os: '7'
+package: hivex
+rpms:
+  - hivex-1.3.10-6.12.el7_9.i686.rpm
+  - hivex-1.3.10-6.12.el7_9.src.rpm
+  - hivex-1.3.10-6.12.el7_9.x86_64.rpm
+  - hivex-devel-1.3.10-6.12.el7_9.i686.rpm
+  - hivex-devel-1.3.10-6.12.el7_9.x86_64.rpm
+  - ocaml-hivex-1.3.10-6.12.el7_9.x86_64.rpm
+  - ocaml-hivex-devel-1.3.10-6.12.el7_9.x86_64.rpm
+  - perl-hivex-1.3.10-6.12.el7_9.x86_64.rpm
+  - python-hivex-1.3.10-6.12.el7_9.x86_64.rpm
+  - ruby-hivex-1.3.10-6.12.el7_9.x86_64.rpm

@@ -1,0 +1,8 @@
+---
+cesa: CESA-2021:3498
+os: '7'
+package: firefox
+rpms:
+  - firefox-78.14.0-1.el7.centos.i686.rpm
+  - firefox-78.14.0-1.el7.centos.src.rpm
+  - firefox-78.14.0-1.el7.centos.x86_64.rpm
