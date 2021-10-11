@@ -1,9 +1,0 @@
----
-cesa: CESA-2020:2040
-os: '7'
-package: squid
-rpms:
-  - squid-3.5.20-15.el7_8.1.src.rpm
-  - squid-3.5.20-15.el7_8.1.x86_64.rpm
-  - squid-migration-script-3.5.20-15.el7_8.1.x86_64.rpm
-  - squid-sysvinit-3.5.20-15.el7_8.1.x86_64.rpm

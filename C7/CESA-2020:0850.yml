@@ -1,7 +1,0 @@
----
-cesa: CESA-2020:0850
-os: '7'
-package: python-pip
-rpms:
-  - python-pip-9.0.3-7.el7_7.src.rpm
-  - python3-pip-9.0.3-7.el7_7.noarch.rpm

@@ -155,9 +155,8 @@ def get_cesa_details(cesa_found, official=False):
 
 
 if __name__ == "__main__":
-    get_cesa_details(get_cesa_links(250))
-
+    # get_cesa_details(get_cesa_links(150))
     try:
-        get_cesa_details(get_cesa_links_official(), True)
+        get_cesa_details(get_cesa_links(100))
     except IndexError:
-        print("Error in finding content from Centos OM!")
+        print("Error in finding content from LWN.net!")

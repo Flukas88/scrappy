@@ -1,8 +1,0 @@
----
-cesa: CESA-2020:0515
-os: '6'
-package: ksh
-rpms:
-  - ksh-20120801-38.el6_10.i686.rpm
-  - ksh-20120801-38.el6_10.src.rpm
-  - ksh-20120801-38.el6_10.x86_64.rpm

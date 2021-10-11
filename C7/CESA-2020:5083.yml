@@ -1,7 +1,0 @@
----
-cesa: CESA-2020:5083
-os: '7'
-package: 
-rpms:
-  - microcode_ctl-2.1-73.2.el7_9.src.rpm
-  - microcode_ctl-2.1-73.2.el7_9.x86_64.rpm

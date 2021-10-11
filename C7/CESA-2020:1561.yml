@@ -1,7 +1,0 @@
----
-cesa: CESA-2020:1561
-os: '7'
-package: python-twisted-web
-rpms:
-  - python-twisted-web-12.1.0-7.el7_8.src.rpm
-  - python-twisted-web-12.1.0-7.el7_8.x86_64.rpm
