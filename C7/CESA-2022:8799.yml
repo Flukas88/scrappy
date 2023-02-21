@@ -1,0 +1,14 @@
+---
+cesa: CESA-2022:8799
+os: '7'
+package: pki-core
+rpms:
+  - pki-base-10.5.18-24.el7_9.noarch.rpm
+  - pki-base-java-10.5.18-24.el7_9.noarch.rpm
+  - pki-ca-10.5.18-24.el7_9.noarch.rpm
+  - pki-core-10.5.18-24.el7_9.src.rpm
+  - pki-javadoc-10.5.18-24.el7_9.noarch.rpm
+  - pki-kra-10.5.18-24.el7_9.noarch.rpm
+  - pki-server-10.5.18-24.el7_9.noarch.rpm
+  - pki-symkey-10.5.18-24.el7_9.x86_64.rpm
+  - pki-tools-10.5.18-24.el7_9.x86_64.rpm

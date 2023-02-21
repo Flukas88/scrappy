@@ -1,0 +1,52 @@
+---
+cesa: CESA-2023:0403
+os: '7'
+package: sssd
+rpms:
+  - libipa_hbac-1.16.5-10.el7_9.15.i686.rpm
+  - libipa_hbac-1.16.5-10.el7_9.15.x86_64.rpm
+  - libipa_hbac-devel-1.16.5-10.el7_9.15.i686.rpm
+  - libipa_hbac-devel-1.16.5-10.el7_9.15.x86_64.rpm
+  - libsss_autofs-1.16.5-10.el7_9.15.x86_64.rpm
+  - libsss_certmap-1.16.5-10.el7_9.15.i686.rpm
+  - libsss_certmap-1.16.5-10.el7_9.15.x86_64.rpm
+  - libsss_certmap-devel-1.16.5-10.el7_9.15.i686.rpm
+  - libsss_certmap-devel-1.16.5-10.el7_9.15.x86_64.rpm
+  - libsss_idmap-1.16.5-10.el7_9.15.i686.rpm
+  - libsss_idmap-1.16.5-10.el7_9.15.x86_64.rpm
+  - libsss_idmap-devel-1.16.5-10.el7_9.15.i686.rpm
+  - libsss_idmap-devel-1.16.5-10.el7_9.15.x86_64.rpm
+  - libsss_nss_idmap-1.16.5-10.el7_9.15.i686.rpm
+  - libsss_nss_idmap-1.16.5-10.el7_9.15.x86_64.rpm
+  - libsss_nss_idmap-devel-1.16.5-10.el7_9.15.i686.rpm
+  - libsss_nss_idmap-devel-1.16.5-10.el7_9.15.x86_64.rpm
+  - libsss_simpleifp-1.16.5-10.el7_9.15.i686.rpm
+  - libsss_simpleifp-1.16.5-10.el7_9.15.x86_64.rpm
+  - libsss_simpleifp-devel-1.16.5-10.el7_9.15.i686.rpm
+  - libsss_simpleifp-devel-1.16.5-10.el7_9.15.x86_64.rpm
+  - libsss_sudo-1.16.5-10.el7_9.15.x86_64.rpm
+  - python-libipa_hbac-1.16.5-10.el7_9.15.x86_64.rpm
+  - python-libsss_nss_idmap-1.16.5-10.el7_9.15.x86_64.rpm
+  - python-sss-1.16.5-10.el7_9.15.x86_64.rpm
+  - python-sss-murmur-1.16.5-10.el7_9.15.x86_64.rpm
+  - python-sssdconfig-1.16.5-10.el7_9.15.noarch.rpm
+  - sssd-1.16.5-10.el7_9.15.src.rpm
+  - sssd-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-ad-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-client-1.16.5-10.el7_9.15.i686.rpm
+  - sssd-client-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-common-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-common-pac-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-dbus-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-ipa-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-kcm-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-krb5-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-krb5-common-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-ldap-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-libwbclient-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-libwbclient-devel-1.16.5-10.el7_9.15.i686.rpm
+  - sssd-libwbclient-devel-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-polkit-rules-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-proxy-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-tools-1.16.5-10.el7_9.15.x86_64.rpm
+  - sssd-winbind-idmap-1.16.5-10.el7_9.15.x86_64.rpm

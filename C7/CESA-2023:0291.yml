@@ -1,0 +1,9 @@
+---
+cesa: CESA-2023:0291
+os: '7'
+package: sudo
+rpms:
+  - sudo-1.8.23-10.el7_9.3.src.rpm
+  - sudo-1.8.23-10.el7_9.3.x86_64.rpm
+  - sudo-devel-1.8.23-10.el7_9.3.i686.rpm
+  - sudo-devel-1.8.23-10.el7_9.3.x86_64.rpm

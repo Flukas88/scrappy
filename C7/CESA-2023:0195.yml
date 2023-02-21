@@ -1,0 +1,24 @@
+---
+cesa: CESA-2023:0195
+os: '7'
+package: java-11-openjdk
+rpms:
+  - java-11-openjdk-11.0.18.0.10-1.el7_9.i686.rpm
+  - java-11-openjdk-11.0.18.0.10-1.el7_9.src.rpm
+  - java-11-openjdk-11.0.18.0.10-1.el7_9.x86_64.rpm
+  - java-11-openjdk-demo-11.0.18.0.10-1.el7_9.i686.rpm
+  - java-11-openjdk-demo-11.0.18.0.10-1.el7_9.x86_64.rpm
+  - java-11-openjdk-devel-11.0.18.0.10-1.el7_9.i686.rpm
+  - java-11-openjdk-devel-11.0.18.0.10-1.el7_9.x86_64.rpm
+  - java-11-openjdk-headless-11.0.18.0.10-1.el7_9.i686.rpm
+  - java-11-openjdk-headless-11.0.18.0.10-1.el7_9.x86_64.rpm
+  - java-11-openjdk-javadoc-11.0.18.0.10-1.el7_9.i686.rpm
+  - java-11-openjdk-javadoc-11.0.18.0.10-1.el7_9.x86_64.rpm
+  - java-11-openjdk-javadoc-zip-11.0.18.0.10-1.el7_9.i686.rpm
+  - java-11-openjdk-javadoc-zip-11.0.18.0.10-1.el7_9.x86_64.rpm
+  - java-11-openjdk-jmods-11.0.18.0.10-1.el7_9.i686.rpm
+  - java-11-openjdk-jmods-11.0.18.0.10-1.el7_9.x86_64.rpm
+  - java-11-openjdk-src-11.0.18.0.10-1.el7_9.i686.rpm
+  - java-11-openjdk-src-11.0.18.0.10-1.el7_9.x86_64.rpm
+  - java-11-openjdk-static-libs-11.0.18.0.10-1.el7_9.i686.rpm
+  - java-11-openjdk-static-libs-11.0.18.0.10-1.el7_9.x86_64.rpm

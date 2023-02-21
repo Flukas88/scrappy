@@ -1,0 +1,16 @@
+---
+cesa: CESA-2022:8640
+os: '7'
+package: krb5
+rpms:
+  - krb5-1.15.1-55.el7_9.src.rpm
+  - krb5-devel-1.15.1-55.el7_9.i686.rpm
+  - krb5-devel-1.15.1-55.el7_9.x86_64.rpm
+  - krb5-libs-1.15.1-55.el7_9.i686.rpm
+  - krb5-libs-1.15.1-55.el7_9.x86_64.rpm
+  - krb5-pkinit-1.15.1-55.el7_9.x86_64.rpm
+  - krb5-server-1.15.1-55.el7_9.x86_64.rpm
+  - krb5-server-ldap-1.15.1-55.el7_9.x86_64.rpm
+  - krb5-workstation-1.15.1-55.el7_9.x86_64.rpm
+  - libkadm5-1.15.1-55.el7_9.i686.rpm
+  - libkadm5-1.15.1-55.el7_9.x86_64.rpm

@@ -1,0 +1,13 @@
+---
+cesa: CESA-2023:0675
+os: '7'
+package: 
+rpms:
+  - tigervnc-1.8.0-24.el7_9.src.rpm
+  - tigervnc-1.8.0-24.el7_9.x86_64.rpm
+  - tigervnc-icons-1.8.0-24.el7_9.noarch.rpm
+  - tigervnc-license-1.8.0-24.el7_9.noarch.rpm
+  - tigervnc-server-1.8.0-24.el7_9.x86_64.rpm
+  - tigervnc-server-applet-1.8.0-24.el7_9.noarch.rpm
+  - tigervnc-server-minimal-1.8.0-24.el7_9.x86_64.rpm
+  - tigervnc-server-module-1.8.0-24.el7_9.x86_64.rpm

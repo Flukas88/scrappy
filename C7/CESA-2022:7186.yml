@@ -1,0 +1,17 @@
+---
+cesa: CESA-2022:7186
+os: '7'
+package: device-mapper-multipath
+rpms:
+  - device-mapper-multipath-0.4.9-136.el7_9.src.rpm
+  - device-mapper-multipath-0.4.9-136.el7_9.x86_64.rpm
+  - device-mapper-multipath-devel-0.4.9-136.el7_9.i686.rpm
+  - device-mapper-multipath-devel-0.4.9-136.el7_9.x86_64.rpm
+  - device-mapper-multipath-libs-0.4.9-136.el7_9.i686.rpm
+  - device-mapper-multipath-libs-0.4.9-136.el7_9.x86_64.rpm
+  - device-mapper-multipath-sysvinit-0.4.9-136.el7_9.x86_64.rpm
+  - kpartx-0.4.9-136.el7_9.x86_64.rpm
+  - libdmmp-0.4.9-136.el7_9.i686.rpm
+  - libdmmp-0.4.9-136.el7_9.x86_64.rpm
+  - libdmmp-devel-0.4.9-136.el7_9.i686.rpm
+  - libdmmp-devel-0.4.9-136.el7_9.x86_64.rpm

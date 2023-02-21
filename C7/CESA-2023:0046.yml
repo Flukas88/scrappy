@@ -1,0 +1,16 @@
+---
+cesa: CESA-2023:0046
+os: '7'
+package: xorg-x11-server
+rpms:
+  - xorg-x11-server-1.20.4-21.el7_9.src.rpm
+  - xorg-x11-server-Xdmx-1.20.4-21.el7_9.x86_64.rpm
+  - xorg-x11-server-Xephyr-1.20.4-21.el7_9.x86_64.rpm
+  - xorg-x11-server-Xnest-1.20.4-21.el7_9.x86_64.rpm
+  - xorg-x11-server-Xorg-1.20.4-21.el7_9.x86_64.rpm
+  - xorg-x11-server-Xvfb-1.20.4-21.el7_9.x86_64.rpm
+  - xorg-x11-server-Xwayland-1.20.4-21.el7_9.x86_64.rpm
+  - xorg-x11-server-common-1.20.4-21.el7_9.x86_64.rpm
+  - xorg-x11-server-devel-1.20.4-21.el7_9.i686.rpm
+  - xorg-x11-server-devel-1.20.4-21.el7_9.x86_64.rpm
+  - xorg-x11-server-source-1.20.4-21.el7_9.noarch.rpm

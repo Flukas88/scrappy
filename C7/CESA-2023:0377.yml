@@ -1,0 +1,10 @@
+---
+cesa: CESA-2023:0377
+os: '7'
+package: libXpm
+rpms:
+  - libXpm-3.5.12-2.el7_9.i686.rpm
+  - libXpm-3.5.12-2.el7_9.src.rpm
+  - libXpm-3.5.12-2.el7_9.x86_64.rpm
+  - libXpm-devel-3.5.12-2.el7_9.i686.rpm
+  - libXpm-devel-3.5.12-2.el7_9.x86_64.rpm

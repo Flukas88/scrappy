@@ -1,0 +1,7 @@
+---
+cesa: CESA-2022:8555
+os: '7'
+package: thunderbird
+rpms:
+  - thunderbird-102.5.0-2.el7.centos.src.rpm
+  - thunderbird-102.5.0-2.el7.centos.x86_64.rpm
